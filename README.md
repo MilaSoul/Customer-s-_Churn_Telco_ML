@@ -1,4 +1,4 @@
-# ML_GroupProject
+# Machine Learning/ Group Project
 
 Churn prediction in Telco 2022. 
 Churn prediction by building an ML model. The project was based on the churn prediction of a telcecom company based on demography, product services and amount of sales per month and year. The project required data analysis such as Exploratory Data Analysis (descriptive statistics, data cleaning and data visualisation)  and  Machine Learning Models(compression efficiency of 2 different ML models ). The project involved 5 members and each individual has own role and tasks (tools used: Jupiter Notebook, Trello and Github). Tasks were split by: Business Description, EDA, Normalisation, ML model development and comparison. The project was chosen as the IT sector is pretty wide in Ireland and all tech companies have to be aware of the churn in such a competitive environment. It was good practice for us to understand the telecom business and apply statistical, analytical, programming and ML skills to the problem. 
